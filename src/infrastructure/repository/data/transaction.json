@@ -1,0 +1,482 @@
+[
+  {
+    "id": "7f5083f5-8fa2-478f-aa9c-cf5dcc4700c6",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:51:16.507Z",
+    "dueDate": "2024-08-15T22:51:16.509Z"
+  },
+  {
+    "id": "07a34337-57ee-438b-92f0-fe7d01c41a77",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:53:16.458Z",
+    "dueDate": "2024-08-15T22:53:16.460Z"
+  },
+  {
+    "id": "960425c3-ccbf-406e-ad3e-1fdb0b33e6f4",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:54:58.848Z",
+    "dueDate": "2024-08-15T22:54:58.850Z"
+  },
+  {
+    "id": "372434dd-95c4-44bb-99ac-fa638e1c70f8",
+    "amount": 300,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:54:58.885Z",
+    "dueDate": "2024-08-15T22:54:58.886Z"
+  },
+  {
+    "id": "666ba5bf-6385-4f0c-a316-f5ec05f03926",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:55:11.598Z",
+    "dueDate": "2024-08-15T22:55:11.600Z"
+  },
+  {
+    "id": "feffc648-e474-4a72-b046-117364d87bf3",
+    "amount": 300,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:55:11.632Z",
+    "dueDate": "2024-08-15T22:55:11.633Z"
+  },
+  {
+    "id": "35ea526e-8019-437e-aeab-b663a4e31cd8",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:55:25.407Z",
+    "dueDate": "2024-08-15T22:55:25.410Z"
+  },
+  {
+    "id": "67537d2f-e7e9-460b-89c6-5e4f91b48299",
+    "amount": 300,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:55:25.451Z",
+    "dueDate": "2024-08-15T22:55:25.452Z"
+  },
+  {
+    "id": "a6758583-9586-4edb-8417-e6b52ac6b4be",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:55:39.137Z",
+    "dueDate": "2024-08-15T22:55:39.138Z"
+  },
+  {
+    "id": "d44fd951-af6b-4e85-a348-f48001c2a357",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:55:56.212Z",
+    "dueDate": "2024-08-15T22:55:56.213Z"
+  },
+  {
+    "id": "f4969715-81a9-4e37-ae73-cded085cb89c",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:56:59.484Z",
+    "dueDate": "2024-08-15T22:56:59.485Z"
+  },
+  {
+    "id": "f2000ab1-0d40-4ea9-a1e2-641f7025698f",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:56:59.515Z",
+    "dueDate": "2024-08-15T22:56:59.516Z"
+  },
+  {
+    "id": "9cdb62dd-c9bd-4bb5-8491-48491402ffaf",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:57:14.042Z",
+    "dueDate": "2024-08-15T22:57:14.043Z"
+  },
+  {
+    "id": "d422a81f-c22b-4c07-ac6b-53a128845c51",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:57:14.089Z",
+    "dueDate": "2024-08-15T22:57:14.090Z"
+  },
+  {
+    "id": "9d3f8570-e52b-4cba-a0af-25ae72acee42",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:57:29.054Z",
+    "dueDate": "2024-08-15T22:57:29.056Z"
+  },
+  {
+    "id": "83acced8-5fd5-44fe-830b-3e0b7c55da48",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:57:29.128Z",
+    "dueDate": "2024-08-15T22:57:29.130Z"
+  },
+  {
+    "id": "b609f878-cb13-425b-adcb-3bf1dfd80961",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:57:44.752Z",
+    "dueDate": "2024-08-15T22:57:44.754Z"
+  },
+  {
+    "id": "8ccf75f9-e26e-40ca-8cc6-0e811048c21e",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:57:44.793Z",
+    "dueDate": "2024-08-15T22:57:44.794Z"
+  },
+  {
+    "id": "18de535e-cf7b-4031-8c32-c057fd354e97",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:57:58.705Z",
+    "dueDate": "2024-08-15T22:57:58.707Z"
+  },
+  {
+    "id": "3a9538cf-f5ff-4842-a5b5-687664a9b9a1",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:57:58.765Z",
+    "dueDate": "2024-08-15T22:57:58.766Z"
+  },
+  {
+    "id": "e6e61814-3586-4627-b8ae-75e6521bf5b3",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:59:32.762Z",
+    "dueDate": "2024-08-15T22:59:32.764Z"
+  },
+  {
+    "id": "46e5a969-a0e6-4e29-862f-9009cf449d0c",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:59:32.804Z",
+    "dueDate": "2024-08-15T22:59:32.805Z"
+  },
+  {
+    "id": "b1711fea-20fc-45ed-8a35-66257617dc01",
+    "amount": 100,
+    "type": "transfer",
+    "status": "confirmed",
+    "description": "Transfer to friend",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": "Jane Doe",
+      "receiverAccount": "456"
+    },
+    "capturedDate": "2024-08-15T22:59:32.812Z",
+    "dueDate": "2024-08-15T22:59:32.813Z"
+  },
+  {
+    "id": "d9a6d54a-934d-417e-bcb9-e4989235d74e",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:59:46.434Z",
+    "dueDate": "2024-08-15T22:59:46.436Z"
+  },
+  {
+    "id": "617b96fe-ece6-472c-8dcb-84ea8aa6a4af",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:59:46.489Z",
+    "dueDate": "2024-08-15T22:59:46.491Z"
+  },
+  {
+    "id": "0c0a4939-753a-41d4-9539-86cede664a39",
+    "amount": 100,
+    "type": "transfer",
+    "status": "confirmed",
+    "description": "Transfer to friend",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": "Jane Doe",
+      "receiverAccount": "456"
+    },
+    "capturedDate": "2024-08-15T22:59:46.501Z",
+    "dueDate": "2024-08-15T22:59:46.503Z"
+  },
+  {
+    "id": "193f0a83-5679-40cc-86a7-05216c29cc6d",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T22:59:59.668Z",
+    "dueDate": "2024-08-15T22:59:59.673Z"
+  },
+  {
+    "id": "eab03acd-9b60-4a85-b72a-d7012bf3c197",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T22:59:59.731Z",
+    "dueDate": "2024-08-15T22:59:59.732Z"
+  },
+  {
+    "id": "49089dd7-b1bd-440e-884c-4c65c96234f6",
+    "amount": 100,
+    "type": "transfer",
+    "status": "confirmed",
+    "description": "Transfer to friend",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": "Jane Doe",
+      "receiverAccount": "456"
+    },
+    "capturedDate": "2024-08-15T22:59:59.750Z",
+    "dueDate": "2024-08-15T22:59:59.753Z"
+  },
+  {
+    "id": "c420c100-38d1-4aaa-be9b-9fb70dd9360c",
+    "amount": 200,
+    "type": "deposit",
+    "status": "confirmed",
+    "description": "Salary Deposit",
+    "source": {
+      "debtor": null,
+      "debtorAccount": null,
+      "receiver": "John Doe",
+      "receiverAccount": "123"
+    },
+    "capturedDate": "2024-08-15T23:00:15.123Z",
+    "dueDate": "2024-08-15T23:00:15.124Z"
+  },
+  {
+    "id": "2baa9d52-4d99-4de3-96f8-711a73dbc97d",
+    "amount": 300,
+    "type": "withdraw",
+    "status": "confirmed",
+    "description": "ATM Withdrawal",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": null,
+      "receiverAccount": null
+    },
+    "capturedDate": "2024-08-15T23:00:15.195Z",
+    "dueDate": "2024-08-15T23:00:15.197Z"
+  },
+  {
+    "id": "92fb51c0-dcd1-4a29-86dd-8c4d819a036f",
+    "amount": 100,
+    "type": "transfer",
+    "status": "confirmed",
+    "description": "Transfer to friend",
+    "source": {
+      "debtor": "John Doe",
+      "debtorAccount": "123",
+      "receiver": "Jane Doe",
+      "receiverAccount": "456"
+    },
+    "capturedDate": "2024-08-15T23:00:15.213Z",
+    "dueDate": "2024-08-15T23:00:15.214Z"
+  }
+]
